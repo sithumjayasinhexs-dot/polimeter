@@ -1,0 +1,313 @@
+{
+  "lastUpdated": "2026-10-11",
+  "source": "sample",
+  "cbsl": {
+    "AWDR": 8.42,
+    "AWPR": 11.85,
+    "SDFR": 7.25,
+    "SLFR": 8.25,
+    "updated": "2026-10-06"
+  },
+  "gold": {
+    "perGram24k": 39000,
+    "updated": "2026-10-10"
+  },
+  "banks": {
+    "seylan": {
+      "name": "Seylan Bank",
+      "type": "private",
+      "fd": {
+        "3": 9.5,
+        "6": 10.25,
+        "12": 11.5,
+        "24": 11.75,
+        "60": 11.5
+      },
+      "sav": 3.5,
+      "loans": {
+        "ploan": 21,
+        "hloan": 16.5,
+        "vloan": 18.5
+      },
+      "senior": 0.5,
+      "updated": "2026-10-08",
+      "pawnRate": 15.5,
+      "pawnLtv": 80,
+      "leaseRate": 18.5,
+      "verified": false
+    },
+    "ndb": {
+      "name": "NDB Bank",
+      "type": "private",
+      "fd": {
+        "3": 9.25,
+        "6": 10,
+        "12": 11.25,
+        "24": 11.5,
+        "60": 11.25
+      },
+      "sav": 3.25,
+      "loans": {
+        "ploan": 20.5,
+        "hloan": 16,
+        "vloan": 18
+      },
+      "senior": 0.5,
+      "updated": "2026-10-07",
+      "pawnRate": 15,
+      "pawnLtv": 85,
+      "leaseRate": 18,
+      "verified": false
+    },
+    "sampath": {
+      "name": "Sampath Bank",
+      "type": "private",
+      "fd": {
+        "3": 9,
+        "6": 9.75,
+        "12": 11,
+        "24": 11.25,
+        "60": 11
+      },
+      "sav": 3,
+      "loans": {
+        "ploan": 20,
+        "hloan": 15.75,
+        "vloan": 17.75
+      },
+      "senior": 0.5,
+      "updated": "2026-10-08",
+      "pawnRate": 15,
+      "pawnLtv": 85,
+      "leaseRate": 17.75,
+      "verified": false
+    },
+    "combank": {
+      "name": "Commercial Bank",
+      "type": "private",
+      "fd": {
+        "3": 8.75,
+        "6": 9.5,
+        "12": 10.75,
+        "24": 11,
+        "60": 10.75
+      },
+      "sav": 3,
+      "loans": {
+        "ploan": 19.5,
+        "hloan": 15.5,
+        "vloan": 17.5
+      },
+      "senior": 0.5,
+      "updated": "2026-10-06",
+      "pawnRate": 14.75,
+      "pawnLtv": 85,
+      "leaseRate": 17.5,
+      "verified": false
+    },
+    "hnb": {
+      "name": "Hatton National Bank",
+      "type": "private",
+      "fd": {
+        "3": 8.75,
+        "6": 9.5,
+        "12": 10.75,
+        "24": 11,
+        "60": 10.75
+      },
+      "sav": 3,
+      "loans": {
+        "ploan": 20,
+        "hloan": 15.75,
+        "vloan": 18
+      },
+      "senior": 0.75,
+      "updated": "2026-10-05",
+      "pawnRate": 15.25,
+      "pawnLtv": 85,
+      "leaseRate": 18,
+      "verified": false
+    },
+    "dfcc": {
+      "name": "DFCC Bank",
+      "type": "private",
+      "fd": {
+        "3": 9,
+        "6": 9.8,
+        "12": 11,
+        "24": 11.3,
+        "60": 11
+      },
+      "sav": 3.25,
+      "loans": {
+        "ploan": 20.5,
+        "hloan": 16,
+        "vloan": 18
+      },
+      "senior": 0.5,
+      "updated": "2026-10-07",
+      "pawnRate": 15.25,
+      "pawnLtv": 82,
+      "leaseRate": 17.75,
+      "verified": false
+    },
+    "ntb": {
+      "name": "Nations Trust Bank",
+      "type": "private",
+      "fd": {
+        "3": 8.5,
+        "6": 9.25,
+        "12": 10.5,
+        "24": 10.75,
+        "60": 10.5
+      },
+      "sav": 2.75,
+      "loans": {
+        "ploan": 21.5,
+        "hloan": 16.75,
+        "vloan": 19
+      },
+      "senior": 0.5,
+      "updated": "2026-10-04",
+      "pawnRate": 16,
+      "pawnLtv": 80,
+      "leaseRate": 19,
+      "verified": false
+    },
+    "panasia": {
+      "name": "Pan Asia Bank",
+      "type": "private",
+      "fd": {
+        "3": 9.25,
+        "6": 10,
+        "12": 11.25,
+        "24": 11.5,
+        "60": 11
+      },
+      "sav": 3.25,
+      "loans": {
+        "ploan": 21,
+        "hloan": 16.25,
+        "vloan": 18.25
+      },
+      "senior": 0.5,
+      "updated": "2026-10-06",
+      "pawnRate": 15.75,
+      "pawnLtv": 82,
+      "leaseRate": 18.25,
+      "verified": false
+    },
+    "boc": {
+      "name": "Bank of Ceylon",
+      "type": "state",
+      "fd": {
+        "3": 8.5,
+        "6": 9.25,
+        "12": 10.5,
+        "24": 10.75,
+        "60": 10.5
+      },
+      "sav": 3,
+      "loans": {
+        "ploan": 19,
+        "hloan": 15,
+        "vloan": 17
+      },
+      "senior": 1,
+      "updated": "2026-10-03",
+      "pawnRate": 13.5,
+      "pawnLtv": 90,
+      "leaseRate": 17,
+      "verified": false
+    },
+    "peoples": {
+      "name": "People's Bank",
+      "type": "state",
+      "fd": {
+        "3": 8.5,
+        "6": 9.25,
+        "12": 10.5,
+        "24": 10.75,
+        "60": 10.5
+      },
+      "sav": 3,
+      "loans": {
+        "ploan": 19,
+        "hloan": 15,
+        "vloan": 17
+      },
+      "senior": 1,
+      "updated": "2026-10-03",
+      "pawnRate": 13.5,
+      "pawnLtv": 90,
+      "leaseRate": 17,
+      "verified": false
+    }
+  },
+  "news": [
+    {
+      "bank": "seylan",
+      "cat": "Rate change",
+      "date": "2026-10-10",
+      "isNew": true,
+      "title": "Seylan raises 12-month FD rate to 11.50% p.a.",
+      "body": "Seylan Bank has revised its fixed deposit rates upward across 6, 12 and 24-month tenures. The 12-month rate now leads the market in our tracker."
+    },
+    {
+      "bank": "cbsl",
+      "cat": "CBSL",
+      "date": "2026-10-08",
+      "isNew": true,
+      "title": "Central Bank holds policy rates steady",
+      "body": "The Monetary Policy Board kept the Standing Deposit Facility Rate at 7.25% and the Standing Lending Facility Rate at 8.25%."
+    },
+    {
+      "bank": "hnb",
+      "cat": "New product",
+      "date": "2026-10-07",
+      "isNew": true,
+      "title": "HNB launches 'Smart Saver' with 4.00% on balances over Rs. 1M",
+      "body": "The new tiered savings account pays a headline 4.00% p.a. on balances above one million rupees, with zero monthly fees."
+    },
+    {
+      "bank": "boc",
+      "cat": "Notice",
+      "date": "2026-10-05",
+      "isNew": false,
+      "title": "BOC extends +1.00% senior citizen FD bonus till year-end",
+      "body": "Bank of Ceylon confirmed its senior citizen fixed deposit bonus of an extra 1.00% p.a. will continue through December 31."
+    },
+    {
+      "bank": "combank",
+      "cat": "Rate change",
+      "date": "2026-10-03",
+      "isNew": false,
+      "title": "Commercial Bank cuts home loan rates to 15.50%",
+      "body": "Commercial Bank of Ceylon trimmed its housing loan rates by 25 basis points, effective next billing cycle for floating-rate borrowers."
+    },
+    {
+      "bank": "dfcc",
+      "cat": "New product",
+      "date": "2026-10-01",
+      "isNew": false,
+      "title": "DFCC enables fully online FD top-ups",
+      "body": "DFCC Bank customers can now open and top up fixed deposits entirely through the mobile app, with instant e-receipts."
+    },
+    {
+      "bank": "ndb",
+      "cat": "Notice",
+      "date": "2026-09-29",
+      "isNew": false,
+      "title": "NDB schedules mobile banking maintenance Sunday 1–4 AM",
+      "body": "NDB Bank announced planned system maintenance this Sunday. Mobile and internet banking will be briefly unavailable."
+    },
+    {
+      "bank": "peoples",
+      "cat": "Rate change",
+      "date": "2026-09-27",
+      "isNew": false,
+      "title": "People's Bank revises savings rate to 3.00%",
+      "body": "People's Bank adjusted its general savings rate to 3.00% p.a. Children's and women's savings products are unchanged."
+    }
+  ]
+}
