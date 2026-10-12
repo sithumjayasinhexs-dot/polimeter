@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-11",
+  "lastUpdated": "2026-10-12",
   "source": "sample",
   "cbsl": {
-    "AWDR": 8.42,
-    "AWPR": 11.85,
-    "SDFR": 7.25,
-    "SLFR": 8.25,
-    "updated": "2026-10-06"
+    "AWDR": 7.39,
+    "AWPR": 11.04,
+    "SDFR": 8.25,
+    "SLFR": 9.25,
+    "updated": "2026-10-12"
   },
   "gold": {
     "perGram24k": 39000,
@@ -17,47 +17,47 @@
       "name": "Seylan Bank",
       "type": "private",
       "fd": {
-        "3": 9.5,
-        "6": 10.25,
-        "12": 11.5,
-        "24": 11.75,
-        "60": 11.5
+        "3": 9.0,
+        "6": 9.75,
+        "12": 10.0,
+        "24": 11.0,
+        "60": 12.5
       },
-      "sav": 3.5,
+      "sav": 2.5,
       "loans": {
         "ploan": 21,
         "hloan": 16.5,
         "vloan": 18.5
       },
       "senior": 0.5,
-      "updated": "2026-10-08",
-      "pawnRate": 15.5,
+      "updated": "2026-10-12",
+      "pawnRate": 14.5,
       "pawnLtv": 80,
       "leaseRate": 18.5,
-      "verified": false
+      "verified": true
     },
     "ndb": {
       "name": "NDB Bank",
       "type": "private",
       "fd": {
-        "3": 9.25,
-        "6": 10,
-        "12": 11.25,
-        "24": 11.5,
-        "60": 11.25
+        "3": 9.5,
+        "6": 9.75,
+        "12": 10.0,
+        "24": 11.0,
+        "60": 13.0
       },
-      "sav": 3.25,
+      "sav": 2.25,
       "loans": {
         "ploan": 20.5,
         "hloan": 16,
         "vloan": 18
       },
       "senior": 0.5,
-      "updated": "2026-10-07",
+      "updated": "2026-10-12",
       "pawnRate": 15,
       "pawnLtv": 85,
       "leaseRate": 18,
-      "verified": false
+      "verified": true
     },
     "sampath": {
       "name": "Sampath Bank",
@@ -86,24 +86,24 @@
       "name": "Commercial Bank",
       "type": "private",
       "fd": {
-        "3": 8.75,
-        "6": 9.5,
-        "12": 10.75,
-        "24": 11,
-        "60": 10.75
+        "3": 9.0,
+        "6": 9.75,
+        "12": 10.0,
+        "24": 11.0,
+        "60": 12.5
       },
-      "sav": 3,
+      "sav": 2.0,
       "loans": {
         "ploan": 19.5,
         "hloan": 15.5,
         "vloan": 17.5
       },
-      "senior": 0.5,
-      "updated": "2026-10-06",
-      "pawnRate": 14.75,
+      "senior": 0.25,
+      "updated": "2026-10-12",
+      "pawnRate": 13.5,
       "pawnLtv": 85,
       "leaseRate": 17.5,
-      "verified": false
+      "verified": true
     },
     "hnb": {
       "name": "Hatton National Bank",
@@ -155,24 +155,24 @@
       "name": "Nations Trust Bank",
       "type": "private",
       "fd": {
-        "3": 8.5,
-        "6": 9.25,
-        "12": 10.5,
-        "24": 10.75,
-        "60": 10.5
+        "3": 9.0,
+        "6": 9.75,
+        "12": 10.0,
+        "24": 11.0,
+        "60": 11.25
       },
-      "sav": 2.75,
+      "sav": 2.0,
       "loans": {
         "ploan": 21.5,
         "hloan": 16.75,
         "vloan": 19
       },
       "senior": 0.5,
-      "updated": "2026-10-04",
+      "updated": "2026-10-12",
       "pawnRate": 16,
       "pawnLtv": 80,
       "leaseRate": 19,
-      "verified": false
+      "verified": true
     },
     "panasia": {
       "name": "Pan Asia Bank",
@@ -224,24 +224,24 @@
       "name": "People's Bank",
       "type": "state",
       "fd": {
-        "3": 8.5,
-        "6": 9.25,
-        "12": 10.5,
-        "24": 10.75,
-        "60": 10.5
+        "3": 7.25,
+        "6": 7.5,
+        "12": 8.5,
+        "24": 9.4,
+        "60": 10.75
       },
-      "sav": 3,
+      "sav": 6.0,
       "loans": {
         "ploan": 19,
         "hloan": 15,
         "vloan": 17
       },
       "senior": 1,
-      "updated": "2026-10-03",
+      "updated": "2026-10-12",
       "pawnRate": 13.5,
       "pawnLtv": 90,
       "leaseRate": 17,
-      "verified": false
+      "verified": true
     }
   },
   "news": [
