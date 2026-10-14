@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-10-12",
+  "lastUpdated": "2026-10-14",
   "source": "sample",
   "cbsl": {
     "AWDR": 7.39,
     "AWPR": 11.04,
     "SDFR": 8.25,
     "SLFR": 9.25,
-    "updated": "2026-10-12"
+    "updated": "2026-10-14"
   },
   "gold": {
-    "perGram24k": 39000,
-    "updated": "2026-10-10"
+    "perGram24k": 44200,
+    "updated": "2026-10-14"
   },
   "banks": {
     "seylan": {
@@ -30,7 +30,7 @@
         "vloan": 18.5
       },
       "senior": 0.5,
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "pawnRate": 14.5,
       "pawnLtv": 80,
       "leaseRate": 18.5,
@@ -53,7 +53,7 @@
         "vloan": 18
       },
       "senior": 0.5,
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "pawnRate": 15,
       "pawnLtv": 85,
       "leaseRate": 18,
@@ -99,7 +99,7 @@
         "vloan": 17.5
       },
       "senior": 0.25,
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "pawnRate": 13.5,
       "pawnLtv": 85,
       "leaseRate": 17.5,
@@ -145,8 +145,8 @@
         "vloan": 18
       },
       "senior": 0.5,
-      "updated": "2026-10-07",
-      "pawnRate": 15.25,
+      "updated": "2026-10-13",
+      "pawnRate": 13.95,
       "pawnLtv": 82,
       "leaseRate": 17.75,
       "verified": false
@@ -168,7 +168,7 @@
         "vloan": 19
       },
       "senior": 0.5,
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "pawnRate": 16,
       "pawnLtv": 80,
       "leaseRate": 19,
@@ -179,10 +179,10 @@
       "type": "private",
       "fd": {
         "3": 9.25,
-        "6": 10,
-        "12": 11.25,
-        "24": 11.5,
-        "60": 11
+        "6": 9.75,
+        "12": 9.25,
+        "24": 11.25,
+        "60": 13.25
       },
       "sav": 3.25,
       "loans": {
@@ -191,7 +191,7 @@
         "vloan": 18.25
       },
       "senior": 0.5,
-      "updated": "2026-10-06",
+      "updated": "2026-10-13",
       "pawnRate": 15.75,
       "pawnLtv": 82,
       "leaseRate": 18.25,
@@ -230,14 +230,14 @@
         "24": 9.4,
         "60": 10.75
       },
-      "sav": 6.0,
+      "sav": 2.5,
       "loans": {
         "ploan": 19,
         "hloan": 15,
         "vloan": 17
       },
       "senior": 1,
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "pawnRate": 13.5,
       "pawnLtv": 90,
       "leaseRate": 17,
@@ -298,7 +298,7 @@
       "cat": "Notice",
       "date": "2026-09-29",
       "isNew": false,
-      "title": "NDB schedules mobile banking maintenance Sunday 1–4 AM",
+      "title": "NDB schedules mobile banking maintenance Sunday 1\u20134 AM",
       "body": "NDB Bank announced planned system maintenance this Sunday. Mobile and internet banking will be briefly unavailable."
     },
     {
